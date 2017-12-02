@@ -43,7 +43,7 @@
     "webp"
   ],
   "dependencies": {
-    "cwebp-bin": "^3.1.0",
+    "cwebp-bin": "git+https://github.com/hypoalex/cwebp-bin.git",
     "exec-buffer": "^3.0.0",
     "is-cwebp-readable": "^1.0.0"
   },
